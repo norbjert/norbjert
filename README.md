@@ -33,7 +33,7 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/norbjert/norbjert/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/norbjert/norbjert/blob/output/snake.svg)
  
 </div>
 <!--
