@@ -10,7 +10,7 @@
 A Spring Boot integration for JDA, write Discord bot handlers as annotated Spring components
 
 #### <img src="https://raw.githubusercontent.com/norbjert/casemove/HEAD/assets/icon.svg" height="28" align="center"/> [**Casemove**](https://github.com/norbjert/casemove)
-Desktop app for moving items in and out of CS2 storage units, track your portfolio and more
+Desktop app for moving items in and out of CS2 storage units, track your CS2 portfolio and more
 
 #### [**ArduinoOBD**](https://github.com/norbjert/ArduinoOBD)
 WIP
