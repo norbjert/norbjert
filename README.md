@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Greetings, I'm norbjert</h1>
+<h1>Greetings</h1>
 
 <img src="https://github.com/norbjert/norbjert/blob/output/snake.svg"/>
 
